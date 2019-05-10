@@ -14,7 +14,7 @@ endif
 
 DATE ?= $(shell date +%Y-%m-%d)
 
-AWS_DEFAULT_REGION ?= us-west-2
+AWS_DEFAULT_REGION ?= eu-west-1
 
 T_RED := \e[0;31m
 T_GREEN := \e[0;32m
